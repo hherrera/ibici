@@ -31,4 +31,7 @@ custom/application/Ext/*
 silentUpgrade*.php
 # Logs files can safely be ignored.
 *.log
+<<<<<<< HEAD
 
+=======
+>>>>>>> 83e46f9fa5a54040742ef22eee15ca1ad80d591e
